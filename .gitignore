@@ -1,3 +1,8 @@
 Include/
 Lib/
 Scripts/
+# Directory Structure
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
